@@ -92,21 +92,26 @@ Build and Run:
 ## Screenshots of the working:
 
 * View all tasks
+
 ![Screenshot 2023-08-08 214556](https://github.com/aryapanja/Task-Tracker/assets/83545460/896b17c5-fabb-4ef0-b140-19f717aee5fd)
 
 
 * View task by id
+  
 ![image](https://github.com/aryapanja/Task-Tracker/assets/83545460/1e56a332-e924-453d-8611-db3b64ef0d3c)
 
 
 * Add a new task
+  
 ![Screenshot 2023-08-08 215057](https://github.com/aryapanja/Task-Tracker/assets/83545460/8b3828be-09ac-4bf4-b2a5-21f78ecf1a1e)
 
 
 * Delete task by id
+  
 ![image](https://github.com/aryapanja/Task-Tracker/assets/83545460/922c9d92-1b6f-4148-8b74-becbde51d3a9)
 
 * Update task by id
+  
 ![image](https://github.com/aryapanja/Task-Tracker/assets/83545460/3e1b928a-fcc9-462b-baa7-9194f5ff6096)
 
 
